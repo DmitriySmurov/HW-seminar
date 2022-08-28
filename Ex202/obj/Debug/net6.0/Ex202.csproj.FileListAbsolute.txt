@@ -1,0 +1,15 @@
+C:\Users\СД.DESKTOP-PNFNQB9\Desktop\GB\ДЗ семинар\Examples\Ex202\bin\Debug\net6.0\Ex202.exe
+C:\Users\СД.DESKTOP-PNFNQB9\Desktop\GB\ДЗ семинар\Examples\Ex202\bin\Debug\net6.0\Ex202.deps.json
+C:\Users\СД.DESKTOP-PNFNQB9\Desktop\GB\ДЗ семинар\Examples\Ex202\bin\Debug\net6.0\Ex202.runtimeconfig.json
+C:\Users\СД.DESKTOP-PNFNQB9\Desktop\GB\ДЗ семинар\Examples\Ex202\bin\Debug\net6.0\Ex202.dll
+C:\Users\СД.DESKTOP-PNFNQB9\Desktop\GB\ДЗ семинар\Examples\Ex202\bin\Debug\net6.0\Ex202.pdb
+C:\Users\СД.DESKTOP-PNFNQB9\Desktop\GB\ДЗ семинар\Examples\Ex202\obj\Debug\net6.0\Ex202.csproj.AssemblyReference.cache
+C:\Users\СД.DESKTOP-PNFNQB9\Desktop\GB\ДЗ семинар\Examples\Ex202\obj\Debug\net6.0\Ex202.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\СД.DESKTOP-PNFNQB9\Desktop\GB\ДЗ семинар\Examples\Ex202\obj\Debug\net6.0\Ex202.AssemblyInfoInputs.cache
+C:\Users\СД.DESKTOP-PNFNQB9\Desktop\GB\ДЗ семинар\Examples\Ex202\obj\Debug\net6.0\Ex202.AssemblyInfo.cs
+C:\Users\СД.DESKTOP-PNFNQB9\Desktop\GB\ДЗ семинар\Examples\Ex202\obj\Debug\net6.0\Ex202.csproj.CoreCompileInputs.cache
+C:\Users\СД.DESKTOP-PNFNQB9\Desktop\GB\ДЗ семинар\Examples\Ex202\obj\Debug\net6.0\Ex202.dll
+C:\Users\СД.DESKTOP-PNFNQB9\Desktop\GB\ДЗ семинар\Examples\Ex202\obj\Debug\net6.0\refint\Ex202.dll
+C:\Users\СД.DESKTOP-PNFNQB9\Desktop\GB\ДЗ семинар\Examples\Ex202\obj\Debug\net6.0\Ex202.pdb
+C:\Users\СД.DESKTOP-PNFNQB9\Desktop\GB\ДЗ семинар\Examples\Ex202\obj\Debug\net6.0\Ex202.genruntimeconfig.cache
+C:\Users\СД.DESKTOP-PNFNQB9\Desktop\GB\ДЗ семинар\Examples\Ex202\obj\Debug\net6.0\ref\Ex202.dll
