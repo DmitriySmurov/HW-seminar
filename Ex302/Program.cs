@@ -1,4 +1,7 @@
-﻿double x1, x2, y1, y2, z1, z2;
+﻿//Задача 21
+// Напишите программу, которая принимает на вход координаты двух точек и находит расстояние между ними в 3D пространстве.
+
+double x1, x2, y1, y2, z1, z2;
 Console.WriteLine("Enter x coordinate of first point");
 x1 = double.Parse(Console.ReadLine());
 Console.WriteLine("Enter y coordinate of second point");

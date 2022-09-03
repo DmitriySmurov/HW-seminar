@@ -1,18 +1,18 @@
-﻿// задание 4
-int a = 22;
+﻿ Console.WriteLine("Введите 3 числа:");
+            int num_1 = Convert.ToInt32(Console.ReadLine());
+            int num_2 = Convert.ToInt32(Console.ReadLine());
+            int num_3 = Convert.ToInt32(Console.ReadLine());
 
-int b = 3;
+            int max = num_1;
 
-int c = 9;
+            if (num_2 > max)
+            {
+                max = num_2;
+            }
 
-int max = a;
+            if (num_3 > max)
+            {
+                max = num_3;
+            }
 
-if (a > b ) max = a;
-
-if (b > a) max = b;
-
-if (c > a) max = c;
-
-if (b > a) max = c;
-
-Console.WriteLine (max);
+            Console.WriteLine("Наибольшее из введённых чисел -> " + max);
