@@ -1,0 +1,15 @@
+C:\Users\СД.DESKTOP-PNFNQB9\Desktop\GB\ДЗ семинар\Examples\Ex403\obj\Debug\net6.0\Ex403.csproj.AssemblyReference.cache
+C:\Users\СД.DESKTOP-PNFNQB9\Desktop\GB\ДЗ семинар\Examples\Ex403\obj\Debug\net6.0\Ex403.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\СД.DESKTOP-PNFNQB9\Desktop\GB\ДЗ семинар\Examples\Ex403\obj\Debug\net6.0\Ex403.AssemblyInfoInputs.cache
+C:\Users\СД.DESKTOP-PNFNQB9\Desktop\GB\ДЗ семинар\Examples\Ex403\obj\Debug\net6.0\Ex403.AssemblyInfo.cs
+C:\Users\СД.DESKTOP-PNFNQB9\Desktop\GB\ДЗ семинар\Examples\Ex403\obj\Debug\net6.0\Ex403.csproj.CoreCompileInputs.cache
+C:\Users\СД.DESKTOP-PNFNQB9\Desktop\GB\ДЗ семинар\Examples\Ex403\bin\Debug\net6.0\Ex403.exe
+C:\Users\СД.DESKTOP-PNFNQB9\Desktop\GB\ДЗ семинар\Examples\Ex403\bin\Debug\net6.0\Ex403.deps.json
+C:\Users\СД.DESKTOP-PNFNQB9\Desktop\GB\ДЗ семинар\Examples\Ex403\bin\Debug\net6.0\Ex403.runtimeconfig.json
+C:\Users\СД.DESKTOP-PNFNQB9\Desktop\GB\ДЗ семинар\Examples\Ex403\bin\Debug\net6.0\Ex403.dll
+C:\Users\СД.DESKTOP-PNFNQB9\Desktop\GB\ДЗ семинар\Examples\Ex403\bin\Debug\net6.0\Ex403.pdb
+C:\Users\СД.DESKTOP-PNFNQB9\Desktop\GB\ДЗ семинар\Examples\Ex403\obj\Debug\net6.0\Ex403.dll
+C:\Users\СД.DESKTOP-PNFNQB9\Desktop\GB\ДЗ семинар\Examples\Ex403\obj\Debug\net6.0\refint\Ex403.dll
+C:\Users\СД.DESKTOP-PNFNQB9\Desktop\GB\ДЗ семинар\Examples\Ex403\obj\Debug\net6.0\Ex403.pdb
+C:\Users\СД.DESKTOP-PNFNQB9\Desktop\GB\ДЗ семинар\Examples\Ex403\obj\Debug\net6.0\Ex403.genruntimeconfig.cache
+C:\Users\СД.DESKTOP-PNFNQB9\Desktop\GB\ДЗ семинар\Examples\Ex403\obj\Debug\net6.0\ref\Ex403.dll
