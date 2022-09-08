@@ -1,0 +1,15 @@
+C:\Users\СД.DESKTOP-PNFNQB9\Desktop\GB\ДЗ семинар\Examples\Ex502\bin\Debug\net6.0\Ex502.exe
+C:\Users\СД.DESKTOP-PNFNQB9\Desktop\GB\ДЗ семинар\Examples\Ex502\bin\Debug\net6.0\Ex502.deps.json
+C:\Users\СД.DESKTOP-PNFNQB9\Desktop\GB\ДЗ семинар\Examples\Ex502\bin\Debug\net6.0\Ex502.runtimeconfig.json
+C:\Users\СД.DESKTOP-PNFNQB9\Desktop\GB\ДЗ семинар\Examples\Ex502\bin\Debug\net6.0\Ex502.dll
+C:\Users\СД.DESKTOP-PNFNQB9\Desktop\GB\ДЗ семинар\Examples\Ex502\bin\Debug\net6.0\Ex502.pdb
+C:\Users\СД.DESKTOP-PNFNQB9\Desktop\GB\ДЗ семинар\Examples\Ex502\obj\Debug\net6.0\Ex502.csproj.AssemblyReference.cache
+C:\Users\СД.DESKTOP-PNFNQB9\Desktop\GB\ДЗ семинар\Examples\Ex502\obj\Debug\net6.0\Ex502.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\СД.DESKTOP-PNFNQB9\Desktop\GB\ДЗ семинар\Examples\Ex502\obj\Debug\net6.0\Ex502.AssemblyInfoInputs.cache
+C:\Users\СД.DESKTOP-PNFNQB9\Desktop\GB\ДЗ семинар\Examples\Ex502\obj\Debug\net6.0\Ex502.AssemblyInfo.cs
+C:\Users\СД.DESKTOP-PNFNQB9\Desktop\GB\ДЗ семинар\Examples\Ex502\obj\Debug\net6.0\Ex502.csproj.CoreCompileInputs.cache
+C:\Users\СД.DESKTOP-PNFNQB9\Desktop\GB\ДЗ семинар\Examples\Ex502\obj\Debug\net6.0\Ex502.dll
+C:\Users\СД.DESKTOP-PNFNQB9\Desktop\GB\ДЗ семинар\Examples\Ex502\obj\Debug\net6.0\refint\Ex502.dll
+C:\Users\СД.DESKTOP-PNFNQB9\Desktop\GB\ДЗ семинар\Examples\Ex502\obj\Debug\net6.0\Ex502.pdb
+C:\Users\СД.DESKTOP-PNFNQB9\Desktop\GB\ДЗ семинар\Examples\Ex502\obj\Debug\net6.0\Ex502.genruntimeconfig.cache
+C:\Users\СД.DESKTOP-PNFNQB9\Desktop\GB\ДЗ семинар\Examples\Ex502\obj\Debug\net6.0\ref\Ex502.dll
