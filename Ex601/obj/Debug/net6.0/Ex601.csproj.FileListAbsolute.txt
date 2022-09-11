@@ -1,0 +1,15 @@
+C:\Users\СД.DESKTOP-PNFNQB9\Desktop\GB\ДЗ семинар\Examples\Ex601\bin\Debug\net6.0\Ex601.exe
+C:\Users\СД.DESKTOP-PNFNQB9\Desktop\GB\ДЗ семинар\Examples\Ex601\bin\Debug\net6.0\Ex601.deps.json
+C:\Users\СД.DESKTOP-PNFNQB9\Desktop\GB\ДЗ семинар\Examples\Ex601\bin\Debug\net6.0\Ex601.runtimeconfig.json
+C:\Users\СД.DESKTOP-PNFNQB9\Desktop\GB\ДЗ семинар\Examples\Ex601\bin\Debug\net6.0\Ex601.dll
+C:\Users\СД.DESKTOP-PNFNQB9\Desktop\GB\ДЗ семинар\Examples\Ex601\bin\Debug\net6.0\Ex601.pdb
+C:\Users\СД.DESKTOP-PNFNQB9\Desktop\GB\ДЗ семинар\Examples\Ex601\obj\Debug\net6.0\Ex601.csproj.AssemblyReference.cache
+C:\Users\СД.DESKTOP-PNFNQB9\Desktop\GB\ДЗ семинар\Examples\Ex601\obj\Debug\net6.0\Ex601.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\СД.DESKTOP-PNFNQB9\Desktop\GB\ДЗ семинар\Examples\Ex601\obj\Debug\net6.0\Ex601.AssemblyInfoInputs.cache
+C:\Users\СД.DESKTOP-PNFNQB9\Desktop\GB\ДЗ семинар\Examples\Ex601\obj\Debug\net6.0\Ex601.AssemblyInfo.cs
+C:\Users\СД.DESKTOP-PNFNQB9\Desktop\GB\ДЗ семинар\Examples\Ex601\obj\Debug\net6.0\Ex601.csproj.CoreCompileInputs.cache
+C:\Users\СД.DESKTOP-PNFNQB9\Desktop\GB\ДЗ семинар\Examples\Ex601\obj\Debug\net6.0\Ex601.dll
+C:\Users\СД.DESKTOP-PNFNQB9\Desktop\GB\ДЗ семинар\Examples\Ex601\obj\Debug\net6.0\refint\Ex601.dll
+C:\Users\СД.DESKTOP-PNFNQB9\Desktop\GB\ДЗ семинар\Examples\Ex601\obj\Debug\net6.0\Ex601.pdb
+C:\Users\СД.DESKTOP-PNFNQB9\Desktop\GB\ДЗ семинар\Examples\Ex601\obj\Debug\net6.0\Ex601.genruntimeconfig.cache
+C:\Users\СД.DESKTOP-PNFNQB9\Desktop\GB\ДЗ семинар\Examples\Ex601\obj\Debug\net6.0\ref\Ex601.dll
